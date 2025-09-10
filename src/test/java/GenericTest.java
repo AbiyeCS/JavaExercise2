@@ -1,4 +1,4 @@
-import JE2.Box;
+import JE2.generics.Box;
 
 import java.util.Arrays;
 

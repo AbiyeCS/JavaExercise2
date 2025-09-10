@@ -1,4 +1,4 @@
-package JE2;
+package JE2.generics;
 
 public class Box<T> {
     private T value;
