@@ -1,10 +1,10 @@
-package JE2;
+package JE2.concurrency;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.*;
 
-public class ExecutorServiceExercises {
+public class ExecutorServiceExercise {
     public static void main(String[]args){
 
         List<String> words = Arrays.asList("John", "Bob", "Charlie", "Abz", "Tan");

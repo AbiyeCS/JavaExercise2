@@ -1,4 +1,4 @@
-package JE2;
+package JE2.concurrency;
 
 import java.util.concurrent.*;
 
